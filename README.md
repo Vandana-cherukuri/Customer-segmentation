@@ -73,9 +73,11 @@ CustomerID	Age	Annual Income (k$)	Spending Score (1-100)
 2	21	15	81
 
 📤 Output
+
 After clustering, you'll receive a downloadable CSV file containing a new Cluster column indicating the cluster each customer belongs to.
 
 ℹ️ About the Model
+
 KMeans is an unsupervised learning algorithm that partitions data into K clusters by minimizing the intra-cluster variance. Each cluster has a centroid that represents the average of the points within it.
 
 🎨 Design & Animation
@@ -87,9 +89,9 @@ KMeans is an unsupervised learning algorithm that partitions data into K cluster
 
 🎨 Responsive layout with CSS enhancements
 
-🧑‍💻 Author
-Your Name
-vandana-cherukuri
+🧑‍💻 Autho
+vandana cherukuri
 
 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
